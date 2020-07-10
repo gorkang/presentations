@@ -12,3 +12,12 @@ Download presentation: [PDF](https://github.com/gorkang/presentations/blob/maste
 
 ---  
 
+
+## Prevalence and Negative Predictive Value [diagnostic versus screening edition]
+
+Download presentation: [PDF](https://github.com/gorkang/presentations/blob/master/docs/Prevalence-NPV.pdf) - [ODP](https://github.com/gorkang/presentations/blob/master/docs/Prevalence-NPV.odp)  
+
+![](https://github.com/gorkang/presentations/blob/master/docs/Prevalence-NPV.png)
+
+---  
+
